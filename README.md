@@ -1,6 +1,6 @@
 ### I am Duke Dukhyun Yoo, coding business 👋
 
-<img src="avatar_todaysmeme_clean.png" alt="avatar" height="30px"/>
+<img src="avatar_todaysmeme_clean.png" alt="avatar" height="100px"/>
 
 <!--
 **dukuaris/dukuaris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
