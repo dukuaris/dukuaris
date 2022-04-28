@@ -16,4 +16,4 @@
 </table>
 </br>
 
-[![Github Repo Size in Bytes](https://img.shields.io/github/languages/code-size/dukuaris/dukuaris)]
+![Github Repo Size in Bytes](https://img.shields.io/github/languages/code-size/dukuaris/dukuaris)
