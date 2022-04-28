@@ -9,7 +9,7 @@
       <li>👯 I’m looking to collaborate on language skill developement.</li>
       <li>💬 Ask me about learning approaches, especially problem based learning approach.</li>
       <li>📫 How to reach me: dukuaris@email.com</li>
-      <li>👨🏻‍💼 Business me: <a href="https://www.linkedin.com/in/duke-yoo/">Get linked!</a></li>
+      <li>👨🏻‍💼 Business me: <a href="https://www.linkedin.com/in/duke-yoo/" target="_blank">Get linked!</a></li>
       <li>⚡ Fun fact: I am also a rock singer.</li>
     </ul>
   </td>
