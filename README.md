@@ -1,7 +1,7 @@
 ## Hi, I am Duke Dukhyun Yoo, coding any business 👋
 
 <table>
-  <td><img src="avatar_todaysmeme_clean.png" alt="avatar" width="150px"/></td>
+  <td><img src="avatar_todaysmeme_clean.png" alt="avatar" width="200px"/></td>
   <td font-size="10px">
     <p>- 🔭 I’m currently working on a learning platform and educational games.</P>
     <p>- 🌱 I’m currently learning Next.js and Kubernetes.</P>
