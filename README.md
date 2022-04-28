@@ -1,7 +1,9 @@
 ## Hi, I am Duke Dukhyun Yoo, coding any business 👋
 
-<div display="flex">
-  <img src="avatar_todaysmeme_clean.png" alt="avatar" width="30%" height="100px"/>
+<div display="flex" align-items="center">
+  <div width="30%">
+    <img src="avatar_todaysmeme_clean.png" alt="avatar" height="100px"/>
+  </div>
   <div width="70%">
     <p>- 🔭 I’m currently working on a learning platform and educational games.</P>
     <p>- 🌱 I’m currently learning Next.js and Kubernetes.</P>
