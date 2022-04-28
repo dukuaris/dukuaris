@@ -1,4 +1,4 @@
-## Hi, I am Duke Dukhyun Yoo, coding business 👋
+## Hi, I am Duke Dukhyun Yoo, coding any business 👋
 
 <img src="avatar_todaysmeme_clean.png" alt="avatar" height="100px"/>
 
