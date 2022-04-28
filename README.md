@@ -16,4 +16,4 @@
 </table>
 </br>
 
-![Github Repo Size in Bytes](https://img.shields.io/github/languages/code-size/dukuaris/dukuaris)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
